@@ -1,7 +1,10 @@
 # Vehicle Sound Classification 🚗🔊  
 
 
-**Welcome to this Applied Machine Learning!** This code is designed to classify a vechile type out of 8 classes based on a .wav audio file.
+**Welcome to this Applied Machine Learning project.**  
+This repository contains the implementation of a vehicle sound classification system that predicts the vehicle type among **8 classes** based on a `.wav` audio file.
+
+**📎 Paper:** [Vehicle Engine Sound Classification](paper/VehicleNET-paper.pdf)
 
 ## Prerequisites
 Make sure you have the following software and tools installed:
