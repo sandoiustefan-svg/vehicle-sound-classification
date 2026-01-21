@@ -1,4 +1,5 @@
-# Applied ML Group 7 🛠️
+# Vehicle Sound Classification 🚗🔊  
+
 
 **Welcome to this Applied Machine Learning!** This code is designed to classify a vechile type out of 8 classes based on a .wav audio file.
 
